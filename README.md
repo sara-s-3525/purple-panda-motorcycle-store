@@ -2,6 +2,11 @@
 
 A fictional motorcycle store website created as a front-end practice project, inspired by my personal interest in motorcycles.
 
+
+## Project Preview
+
+![Purple Panda Motorcycle Store](Screenshot%20(141).png)
+
 ## About the Project
 
 This project was built to practice front-end development and improve my skills in creating multi-page website layouts.
